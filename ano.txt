@@ -1,2 +1,3 @@
 ﻿apt-get
 tmux
+xinit
