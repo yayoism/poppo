@@ -4,3 +4,4 @@ xinit
 tail
 ln
 nc
+cp
