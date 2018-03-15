@@ -3,4 +3,4 @@ tmux
 xinit
 tail
 ln
-robocopy
+nc
