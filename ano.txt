@@ -6,3 +6,4 @@ ln
 nc
 cp
 pwd
+diff
