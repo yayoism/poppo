@@ -1,3 +1,4 @@
 ﻿apt-get
 tmux
 xinit
+tail
