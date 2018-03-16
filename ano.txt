@@ -1,2 +1,2 @@
 ﻿apt-get
-
+tail 1
