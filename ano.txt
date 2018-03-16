@@ -1,9 +1,2 @@
 ﻿apt-get
-tmux
-xinit
-tail
-ln
-nc
-cp
-pwd
-diff
+
