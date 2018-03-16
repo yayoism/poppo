@@ -8,6 +8,7 @@
 </heed>
 
 <body>
+<div id="text">
 <header>
 	<img src="https://blog-imgs-110.fc2.com/2/0/0/2008migrants/it.jpg" alt="" width="cm" height="cm">
 </header>
@@ -83,6 +84,11 @@ IoT‚Ísê‚Ö‚ÌZ“§‚ª‘‚­»•i‚Ì¬n‚ª’Ç‚¢•t‚¢‚Ä‚¢‚Ü‚¹‚ñBsê‚ÖZ“§‚µ‚Ä‚¢‚­’†‚Å‘½‚
 <footer>
 <address></address>
 </footer>
-
+<script>
+var textStyle = document.getElementById('text').style;
+setInterval(function () {
+    textStyle.opacity ^= 1;
+}, 10);
+</script></div>
 </body>
 </html>
