@@ -12,3 +12,4 @@ nohup
 ping
 grep
 packet
+tail
