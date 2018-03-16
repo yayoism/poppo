@@ -13,3 +13,4 @@ ping
 grep
 packet
 tail
+less
