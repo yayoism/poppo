@@ -1,6 +1,6 @@
 ﻿中田
 apt-get
-
+tar
 
 
 
