@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 ﻿apt-get
+=======
+﻿中田
+apt-get
+
+
+
+
+
+ゆうた
+apt-get
+
+>>>>>>> 9ca533cc34c5a37ed0199e2747bc40af2c221fb6
