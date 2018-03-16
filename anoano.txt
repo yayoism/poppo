@@ -9,3 +9,4 @@ apt-get
 apt-get
 tan
 nohup
+ping
