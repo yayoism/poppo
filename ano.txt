@@ -8,3 +8,5 @@ apt-get
 ゆうた
 apt-get
 
+みずき
+telnet
